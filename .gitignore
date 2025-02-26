@@ -1,1 +1,11 @@
 github_links.txt
+*.json
+*.jsonlines
+*.jsonl
+*.jl
+*.csv
+*.xml
+*.marshal
+*.pickle
+
+__pycache__

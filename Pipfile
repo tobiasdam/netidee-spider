@@ -12,4 +12,4 @@ scrapy = "*"
 python_version = "3"
 
 [scripts]
-main = "scrapy runspider netidee.py"
+main = "scrapy runspider netidee.py -O data_strict_resolve_users.csv -a mode=strict"
